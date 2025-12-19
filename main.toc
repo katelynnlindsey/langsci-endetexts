@@ -1,0 +1,58 @@
+\babel@toc {english}{}\relax 
+\contentsline {chapter}{\nonumberline Acknowledgments}{v}{chapter*.4}%
+\contentsline {chapter}{\nonumberline Abbreviations}{vii}{chapter*.5}%
+\contentsline {part}{\numberline {I}Background}{1}{part.6}%
+\contentsline {section}{\numberline {1.1}The language and its speakers}{3}{section.8}%
+\contentsline {subsection}{\numberline {1.1.1}Clan and kinship}{5}{subsection.10}%
+\contentsline {subsection}{\numberline {1.1.2}Marriage}{6}{subsection.11}%
+\contentsline {subsection}{\numberline {1.1.3}Religion}{6}{subsection.12}%
+\contentsline {subsection}{\numberline {1.1.4}Education}{7}{subsection.13}%
+\contentsline {section}{\numberline {1.2}Typological overview}{7}{section.14}%
+\contentsline {subsection}{\numberline {1.2.1}Related work on Ende}{10}{subsection.20}%
+\contentsline {section}{\numberline {1.3}Storytelling and data collection}{10}{section.21}%
+\contentsline {subsection}{\numberline {1.3.1}Sources of the data}{11}{subsection.22}%
+\contentsline {subsection}{\numberline {1.3.2}Orthography development}{11}{subsection.23}%
+\contentsline {subsection}{\numberline {1.3.3}Transcription choices}{14}{subsection.24}%
+\contentsline {subsection}{\numberline {1.3.4}Translation and analysis}{14}{subsection.25}%
+\contentsline {subsection}{\numberline {1.3.5}Contributor acknowledgement}{14}{subsection.26}%
+\contentsline {subsection}{\numberline {1.3.6}Contributor biographies}{15}{subsection.27}%
+\contentsline {section}{\numberline {1.4}Text presentation}{22}{section.28}%
+\contentsline {section}{\numberline {1.5}Special information}{23}{section.30}%
+\contentsline {section}{\numberline {1.6}Overview of the texts}{24}{section.31}%
+\contentsline {section}{\numberline {1.7}Contextual images}{25}{section.32}%
+\contentsline {subsection}{\numberline {1.7.1}Flora}{25}{subsection.33}%
+\contentsline {subsection}{\numberline {1.7.2}Fauna}{27}{subsection.43}%
+\contentsline {subsection}{\numberline {1.7.3}Material culture}{31}{subsection.64}%
+\contentsline {part}{\numberline {II}Animal tales and origin stories}{37}{part.85}%
+\contentsline {chapter}{\numberline {A}\textit {Baet bo llan a allame de tubutubu gogon} --- How Cuscus got his short ears}{39}{chapter.86}%
+\contentsline {chapter}{\numberline {B}\textit {Kottllam bo pallall ttoenttoen} --- Turtle’s story}{59}{chapter.148}%
+\contentsline {chapter}{\numberline {C}\textit {Kakayam bo tongoe} --- The Bird of Paradise Song}{71}{chapter.176}%
+\contentsline {part}{\numberline {III}Tales of hunting and survival}{75}{part.184}%
+\contentsline {chapter}{\numberline {D}\textit {Tawa mamoeatt ttoen} --- Swamp hunting story}{77}{chapter.185}%
+\contentsline {chapter}{\numberline {E}\textit {Iddob käbama ibiatt} --- Night hunting}{89}{chapter.217}%
+\contentsline {chapter}{\numberline {F}\textit {Auma we ibiatt ttoen} --- Walking to the grave story}{99}{chapter.240}%
+\contentsline {part}{\numberline {IV}Heroic or legendary stories}{119}{part.321}%
+\contentsline {chapter}{\numberline {G}\textit {Donae Kurupel bäne käza gäzatt ttoen} --- Donae Kurupel's crocodile killing story}{121}{chapter.322}%
+\contentsline {chapter}{\numberline {H}\textit {Käza misima saima} --- The Crocodile Song}{139}{chapter.396}%
+\contentsline {chapter}{\numberline {I}\textit {Ngämaene ibiatt ttoenttoen} --- Our traveling story}{141}{chapter.404}%
+\contentsline {chapter}{\numberline {J}\textit {Ttongo mälla da} --- Children’s Fishing Song}{153}{chapter.444}%
+\contentsline {chapter}{\numberline {K}\textit {Ause da llɨg kälsre peyang} --- The old woman and the small boy}{155}{chapter.452}%
+\contentsline {chapter}{\numberline {L}\textit {Bandra bebi bälle} --- Sago lullaby}{165}{chapter.476}%
+\contentsline {part}{\numberline {V}Tales of misbehavior and consequence}{167}{part.484}%
+\contentsline {chapter}{\numberline {M}\textit {Bundae bo pepeb} --- The tale of Bundae}{169}{chapter.485}%
+\contentsline {chapter}{\numberline {N}\textit {Ause Ur} --- Children’s song}{181}{chapter.522}%
+\contentsline {chapter}{\numberline {O}\textit {Yu ingong} --- Fire dance}{183}{chapter.531}%
+\contentsline {chapter}{\numberline {P}\textit {Llabo ngasenga utamom} --- Swamp work song}{199}{chapter.589}%
+\contentsline {chapter}{\numberline {Q}\textit {Gämällang komlla} --- A tale of two thieves}{201}{chapter.596}%
+\contentsline {part}{\numberline {VI}Odes and reflections on the natural world}{215}{part.642}%
+\contentsline {chapter}{\numberline {R}\textit {Eramang Karama walle} --- Ode to Karama Swamp}{217}{chapter.643}%
+\contentsline {chapter}{\numberline {S}\textit {Iräm ine, Iräm ine} --- Ode to Iräm Waters}{221}{chapter.662}%
+\contentsline {chapter}{\numberline {T}\textit {Ttongo toto me yäbäd a goklanän} --- Children’s song about \textit {Iräm ine}}{225}{chapter.677}%
+\contentsline {part}{\numberline {VII}Final reflections}{227}{part.685}%
+\contentsline {chapter}{Final reflections}{229}{chapter*.686}%
+\contentsline {chapter}{\nonumberline References}{231}{chapter*.688}%
+\contentsline {chapter}{Index}{243}{section*.689}%
+\contentsline {section}{Name index}{243}{section*.689}%
+\contentsline {section}{Language index}{245}{section*.690}%
+\contentsline {section}{Subject index}{247}{section*.691}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 
